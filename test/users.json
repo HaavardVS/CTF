@@ -1,0 +1,166 @@
+{
+    "jakob": {
+        "name": "Jakob",
+        "role": "user"
+    },
+    "edvard": {
+        "name": "Edvard",
+        "role": "user"
+    },
+    "beka": {
+        "name": "Beka",
+        "role": "user"
+    }, 
+    "anders": {
+        "name": "Anders",
+        "role": "user"
+    },
+    "aleksander": {
+        "name": "Aleksander",
+        "role": "user"
+    },
+    "martin": {
+        "name": "Martin",
+        "role": "user"
+    },
+    "bendik": {
+        "name": "Bendik",
+        "role": "user"
+    },
+    "titus": {
+        "name": "Titus",
+        "role": "user"
+    },
+    "hanne-sofie": {
+        "name": "Hanne-Sofie",
+        "role": "user"
+    },
+    "axel": {
+        "name": "Axel",
+        "role": "user"
+    },
+    "jarand": {
+        "name": "Jarand",
+        "role": "user"
+    },
+    "jonas": {
+        "name": "Jonas",
+        "role": "user"
+    },
+    "haavard": {
+        "name": "Håvard",
+        "role": "admin"
+    },
+    "adrian": {
+        "name": "Adrian",
+        "role": "user"
+    },
+    "daniel": {
+        "name": "Daniel",
+        "role": "user"
+    },
+    "hallvard": {
+        "name": "Hallvard",
+        "role": "user"
+    },
+    "victor": {
+        "name": "Victor",
+        "role": "user"
+    },
+    "abhirami": {
+        "name": "Abhirami",
+        "role": "user"
+    },
+    "torstein": {
+        "name": "Torstein",
+        "role": "user"
+    },
+    "christian": {
+        "name": "Christian",
+        "role": "user"
+    },
+    "eric": {
+        "name": "Eric",
+        "role": "user"
+    },
+    "daniel": {
+        "name": "Daniel",
+        "role": "user"
+    },
+    "erik": {
+        "name": "Erik",
+        "role": "user"
+    },
+    "gunnar": {
+        "name": "Gunnar",
+        "role": "user"
+    },
+    "arnold": {
+        "name": "Arnold",
+        "role": "user"
+    },
+    "pilar": {
+        "name": "Pilar",
+        "role": "user"
+    },
+    "mustafa": {
+        "name": "Mustafa",
+        "role": "user"
+    },
+    "daniel": {
+        "name": "Daniel",
+        "role": "user"
+    },
+    "kristoffer": {
+        "name": "Kristoffer",
+        "role": "user"
+    },
+    "jostein": {
+        "name": "Jostein",
+        "role": "user"
+    },
+    "philipp": {
+        "name": "Philipp",
+        "role": "user"
+    },
+    "stian": {
+        "name": "Stian",
+        "role": "user"
+    },
+    "landon": {
+        "name": "Landon",
+        "role": "user"
+    },
+    "francesca": {
+        "name": "Francesca",
+        "role": "user"
+    },
+    "francesco": {
+        "name": "Francesco",
+        "role": "user"
+    },
+    "maamoun": {
+        "name": "Maamoun",
+        "role": "user"
+    },
+    "vegard": {
+        "name": "Vegard",
+        "role": "user"
+    },
+    "eirik": {
+        "name": "Eirik",
+        "role": "user"
+    },
+    "david": {
+        "name": "David",
+        "role": "user"
+    },
+    "kristian": {
+        "name": "Kristian",
+        "role": "user"
+    },
+    "donn": {
+        "name": "Donn",
+        "role": "user"
+    }
+}
