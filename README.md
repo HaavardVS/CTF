@@ -10,73 +10,24 @@ if you exit, and want to try again, enter this command:
 ```shell
 python3 main.py
 ```
-*scroll down for hints*
 
 ---
 
+*scroll down for hints*
 
 
 
 ##### Hints:
-.
-.
-.
-.
-.
-.
-.
-.
-.
+
 1. Maybe some of the users name is Jason.
-.
-.
-.
-.
-.
-.
-.
-.
-.
+
 2. I must admint there are many users.
-.
-.
-.
-.
-.
-.
-.
-.
-.
+
 3. what do you get if you give a markdown file a high five?
-.
-.
-.
-.
-.
-.
-.
-.
-.
-Scroll down for solution
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
+
+---
+
+
 ##### Solution:
 
 1. enter this string in the user input:
